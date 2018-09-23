@@ -30,7 +30,7 @@ from operator import itemgetter
 ### get addon info
 __localize__    = ( sys.modules[ '__main__' ].__localize__ )
 
-API_KEY = '586118be1ac673f74963cc284d46bd8e'
+API_KEY = 'b3f1b9aa924410b1ccfc957718708272'
 API_URL_TV = 'http://webservice.fanart.tv/v3/tv/%s?api_key=%s'
 API_URL_MOVIE = 'http://webservice.fanart.tv/v3/movies/%s?api_key=%s'
 
